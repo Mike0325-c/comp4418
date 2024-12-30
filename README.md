@@ -1,4 +1,4 @@
-COMP4418 Knowledge Representation (2024, T3)
+# COMP4418 Knowledge Representation (2024, T3)
 This repository contains my coursework for the COMP4418 Knowledge Representation course, offered as part of my studies at UNSW. The course provides an in-depth exploration of the principles and techniques used in representing knowledge in artificial intelligence systems, with a focus on logical formalisms, ontologies, reasoning, and automated decision-making.
 
 In this course, we covered topics such as:
