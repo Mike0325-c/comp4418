@@ -11,6 +11,9 @@ This repository contains my coursework for the COMP4418 Knowledge Representation
  
 # Assignment Scores
 Assignment 1: 90/100
+
 Assignment 2: 99/100
+
 Assignment 3: 100/100
+
 Each assignment involved applying theoretical concepts in practical scenarios, with a focus on designing, analyzing, and implementing knowledge representation systems.
