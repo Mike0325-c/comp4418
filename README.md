@@ -3,11 +3,11 @@ This repository contains my coursework for the COMP4418 Knowledge Representation
 
 # In this course, we covered topics such as:
 
-	+ Game Theory
-	+ Cooperative Game Theory
- 	+ Matching
-	+ Fair allocation
-	+ Social Choice
++ Game Theory
++ Cooperative Game Theory
++ Matching
++ Fair allocation
++ Social Choice
  
 # Assignment Scores
 Assignment 1: 90/100
